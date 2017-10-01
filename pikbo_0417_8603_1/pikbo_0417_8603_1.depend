@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1506844620 source:c:\users\ella\desktop\pikbo_0417_8603_1\main.c
+	<stdio.h>
+	<stdlib.h>
+
